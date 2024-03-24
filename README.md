@@ -13,87 +13,77 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.rust-lang.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" width="42" alt="rust logo" />
-  </a>
-  <a href="https://www.typescriptlang.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo" />
-  </a>
-</div>
+[![rust logo][rust-logo]][rust-link]
+[![typescript logo][typescript-logo]][typescript-link]
+[![javascript logo][javascript-logo]][javascript-link]
+[![nodejs logo][nodejs-logo]][nodejs-link]
+[![html5 logo][html5-logo]][html5-link]
+[![css3 logo][css3-logo]][css3-link]
+[![angularjs logo][angularjs-logo]][angularjs-link]
+[![react logo][react-logo]][react-link]
+[![svelte logo][svelte-logo]][svelte-link]
+[![jest logo][jest-logo]][jest-link]
+[![graphql logo][graphql-logo]][graphql-link]
+[![electron logo][electron-logo]][electron-link]
+[![sass logo][sass-logo]][sass-link]
+[![webpack logo][webpack-logo]][webpack-link]
+[![linux logo][linux-logo]][linux-link]
+[![docker logo][docker-logo]][docker-link]
+[![debian logo][debian-logo]][debian-link]
+[![ubuntu logo][ubuntu-logo]][ubuntu-link]
+[![postgresql logo][postgresql-logo]][postgresql-link]
+[![mongodb logo][mongodb-logo]][mongodb-link]
+[![git logo][git-logo]][git-link]
+[![github logo][github-logo]][github-link]
+[![vscode logo][vscode-logo]][vscode-link]
 
-###
+[rust-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg
+[rust-link]: https://www.rust-lang.org
+[typescript-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg
+[typescript-link]: https://www.typescriptlang.org
+[javascript-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+[javascript-link]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[nodejs-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
+[nodejs-link]: https://nodejs.org
+[html5-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
+[html5-link]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[css3-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+[css3-link]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[angularjs-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg
+[angularjs-link]: https://angular.io
+[react-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+[react-link]: https://reactjs.org
+[svelte-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg
+[svelte-link]: https://svelte.dev
+[jest-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg
+[jest-link]: https://jestjs.io
+[graphql-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg
+[graphql-link]: https://graphql.org
+[electron-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg
+[electron-link]: https://www.electronjs.org
+[sass-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg
+[sass-link]: https://sass-lang.com
+[webpack-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg
+[webpack-link]: https://webpack.js.org
+[linux-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
+[linux-link]: https://www.linux.org
+[docker-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg
+[docker-link]: https://www.docker.com
+[debian-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg
+[debian-link]: https://www.debian.org
+[ubuntu-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg
+[ubuntu-link]: https://ubuntu.com
+[postgresql-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
+[postgresql-link]: https://www.postgresql.org
+[mongodb-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg
+[mongodb-link]: https://www.mongodb.com
+[git-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+[git-link]: https://git-scm.com
+[github-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+[github-link]: https://github.com
+[vscode-logo]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg
+[vscode-link]: https://code.visualstudio.com
 
-<div align="left">
-  <a href="https://nodejs.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo" />
-  </a>
-  <a href="https://angular.io">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="42" alt="angularjs logo" />
-  </a>
-  <a href="https://reactjs.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo" />
-  </a>
-  <a href="https://svelte.dev">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" width="42" alt="svelte logo" />
-  </a>
-  <a href="https://jestjs.io">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo" />
-  </a>
-  <a href="https://graphql.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" width="42" alt="graphql logo" />
-  </a>
-  <a href="https://www.electronjs.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" width="42" alt="electron logo" />
-  </a>
-  <a href="https://sass-lang.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" width="42" alt="sass logo" />
-  </a>
-  <a href="https://webpack.js.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="30" width="42" alt="webpack logo" />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linux.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="42" alt="linux logo" />
-  </a>
-  <a href="https://www.docker.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo" />
-  </a>
-  <a href="https://www.debian.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" width="42" alt="debian logo" />
-  </a>
-  <a href="https://ubuntu.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" width="42" alt="ubuntu logo" />
-  </a>
-  <a href="https://www.postgresql.org">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo" />
-  </a>
-  <a href="https://www.mongodb.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo" />
-  </a>
-  <a href="https://git-scm.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo" />
-  </a>
-  <a href="https://github.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo" />
-  </a>
-  <a href="https://code.visualstudio.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo" />
-  </a>
-</div>
 
 ###
 
